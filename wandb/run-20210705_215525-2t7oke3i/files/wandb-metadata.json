@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2021-07-06T01:55:30.315916",
+    "startedAt": "2021-07-06T01:55:25.130157",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\QWERTY\\AppData\\Roaming\\jupyter\\runtime\\kernel-76ebbaf5-ee65-4d35-9b90-04d40ec5726f.json"
+    ],
+    "state": "running",
+    "program": "Desktop/Char_RNN/min_char_rnn_numpy.ipynb",
+    "root": "C:/Users/QWERTY/Desktop/Char_RNN",
+    "git": {
+        "remote": "https://github.com/DwijayDS/Char_RNN.git",
+        "commit": "ee8518f17ba0a10e269fa1945d400727dacff63b"
+    },
+    "email": "dwijay1@gmail.com",
+    "host": "DESKTOP-NDDMRCD",
+    "username": "QWERTY",
+    "executable": "C:\\Users\\QWERTY\\anaconda3\\python.exe"
+}
